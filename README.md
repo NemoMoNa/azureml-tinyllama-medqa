@@ -32,6 +32,8 @@ This mini project demonstrates how I fine-tuned a Hugging Face model using LoRA,
 2. Eye problems...
 3. Foot problems...
 
+---
+
 ## 📝 License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0),  

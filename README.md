@@ -32,3 +32,10 @@ This mini project demonstrates how I fine-tuned a Hugging Face model using LoRA,
 2. Eye problems...
 3. Foot problems...
 
+## 📝 License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0),  
+due to the use of the [medalpaca/medical_meadow_medqa](https://huggingface.co/datasets/medalpaca/medical_meadow_medqa) dataset,  
+which is derived from [MedQA](https://github.com/jind11/MedQA), a GPL-licensed resource.
+
+All code, training scripts, and fine-tuned model artifacts are distributed under the same license.
